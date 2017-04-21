@@ -1,0 +1,256 @@
+*::-webkit-input-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*:-moz-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*::-moz-placeholder {
+	color: #666;
+	opacity: 1;
+}
+*:-ms-input-placeholder {
+	color: #666;
+	opacity: 1;
+}
+
+body input:focus:required:invalid,
+body textarea:focus:required:invalid {
+	
+}
+body input:required:valid,
+body textarea:required:valid {
+	
+}
+body {
+	font-family: "RobotoRegular", sans-serif;
+	font-size: 16px;
+}
+
+p {
+	font-size: 14px;
+	line-height: 1.9;
+}
+.top_line {
+	margin-bottom: 15px;
+}
+.logo {
+	text-align: right;
+	margin-top: 20px;
+	
+}
+.items {
+	margin-top: 20px;
+	}
+.items a {
+	color: #000;
+	font-size: 13px;
+	border-bottom: 1px solid;
+}
+.items a:hover {
+	border: none;	
+}
+.item_one {
+	float: left;
+	margin-right: 70px;
+	margin-left: 107px;
+}
+.contacts {
+	text-align: right;
+	padding-right: 125px;
+	margin-top: 20px;
+}
+.mail_box {
+	font-size: 13px;
+	color: #000;
+}
+.phone_number {
+	color: #df3434;
+	font-size: 19px;
+}
+.products_line {
+	background-color: #000;
+	line-height: 60px;
+}
+.develop_sites a {
+	color: #fff;
+	margin-left: 80px;
+	text-transform: uppercase;
+}
+.support_sites a {
+	color: #fff;
+	margin-left: 60px;
+	text-transform: uppercase;
+}
+.marketing_sites a {
+	color: #fff;
+	margin-left: 40px;
+	text-transform: uppercase;
+}
+.products_line a:hover {
+	color: #df3434;
+}
+.info {
+	margin-bottom: 50px;
+}
+.info_one {
+	text-align: center;
+	margin-top: 80px;
+}
+.info_two {
+	text-align: center;
+	margin-top: 80px;
+}
+.info_three {
+	text-align: center;
+	margin-top: 80px;
+}
+.info a {
+	font-size: 24px;
+	border-bottom: 1px solid;
+	color: #000;
+}
+.blue_button {
+	color: #fff;
+	background-color: #4cadc9;
+	border: none;
+	padding: 13px 22px;
+}
+.info h3 {
+	margin-bottom: 42px;
+}
+.info p {
+	margin-bottom: 40px;
+}
+.our_clients {
+	background-color: #eaeaea;
+	text-align: center;
+	height: 400px;
+}
+.clients a {
+	font-size: 40px;
+	color: #000;
+	border-bottom: 1px solid;
+}
+.clients {
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+.pink_button {
+	color: #fff;
+	background-color: #f4524d;
+	border: none;
+	padding: 15px 25px;
+	text-transform: uppercase;
+}
+.slider img {
+	margin-left: 60px;
+}
+.slider {
+	margin-bottom: 40px;
+}
+.pluces_description {
+	text-align: center;
+}
+.pluces_description h4 {
+	font-size: 22px;
+	color: #000;
+}
+.kompleks {
+	display: inline-block;	
+}
+.kompleks 
+.kompl {
+	float: left;
+	margin: 4px 32px 7px 0px; 
+}
+.blue_border {
+	color: #fff;
+	background-color: #4cadc9;
+	padding: 3px 8px;
+}
+.kompleks {
+	margin-bottom: 30px;
+}
+.nam_ne_vse_ravno {
+	text-align: center;
+}
+.nam_ne_vse_ravno p {
+	color: #fff;
+	background-color: #4cadc9;
+	padding: 3px 21px;
+	display: inline-block;
+	font-size: 25px;
+}
+.align_left {
+	float: left;
+	margin: 0 30px 10px 0;
+}
+.left {
+	text-align: left;
+	margin-bottom: 50px;
+}
+.zakaz_block {
+	background-image: url(../img/bg.jpg);
+	height: 480px;
+}
+.zakaz_descr {
+	text-align: right;
+}
+.zakaz_descr p {
+	color: #fff;
+	font-size: 38px;
+	font-weight: 600;
+}
+.perekluchateli {
+	padding-left: 508px;
+}
+.perekluchateli p {
+	color: #fff;
+	margin: 0;
+}
+.space {
+	margin-left: 5px;
+}
+.blue_button_otpravit {
+	color: #fff;
+	background-color: #4cadc9;
+	border: none;
+	padding: 4px 9px;
+}
+.width_500 {
+	width: 700px;
+	font-size: 12px;
+}
+.fio {
+	padding-left: 480px;
+}
+footer {
+	background-color: #303030;
+	padding-bottom: 40px;
+}
+.footer_one , .footer_two {
+	margin-top: 40px;
+}
+.footer_two {
+	padding-left: 20px;
+}
+.red {
+	color: #ff0000;
+	font-size: 14px;
+}
+footer p {
+	color: #fff;
+	font-size: 14px;
+}
+.form_footer {
+	width: 595px;
+}
+.section_seo h1 {
+	text-align: center;
+	font-size: 40px;
+}
+.section_seo {
+	padding-bottom: 40px;
+}
