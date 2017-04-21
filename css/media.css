@@ -17,7 +17,57 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
-
+	.logo {
+		text-align: center;
+		
+	}
+	.logo img {
+		width: 200px;
+	}
+	.item_one {
+		margin-left: 6px;
+		margin-right: 100px;
+	}
+	.contacts {
+		padding-right: 60px;
+	}
+	.develop_sites a {
+		margin: 0;
+	}
+	.support_sites a {
+		margin: 0;
+	}
+	.marketing_sites a {
+		margin: 0;
+	}
+	.our_clients {
+		height: 1146px;
+	}
+	.slider img {
+		margin-left: 0;
+	}
+	.zakaz_descr p {
+		font-size: 22px;
+		text-align: left;
+	}
+	.perekluchateli {
+    padding-left: 0;
+	}
+	.fio {
+    padding-left: 0;
+	}
+	.width_500 {
+    width: 267px;
+	}
+	.zakaz_block {
+    height: 462px;
+	}
+	.form_footer {
+    width: 264px;
+	}
+	.footer_two {
+    padding-left: 0;
+	}
 }
 
 /* Custom, iPhone Retina */
