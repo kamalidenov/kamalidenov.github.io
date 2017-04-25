@@ -126,7 +126,7 @@ p {
 .our_clients {
 	background-color: #eaeaea;
 	text-align: center;
-	height: 435px;
+	
 }
 .clients a {
 	font-size: 40px;
@@ -136,6 +136,9 @@ p {
 .clients {
 	margin-bottom: 40px;
 	margin-top: 40px;
+}
+.see_our_projects {
+	margin-bottom: 60px;
 }
 .pink_button {
 	color: #fff;
@@ -159,8 +162,7 @@ p {
 }
 .kompleks {
 	display: inline-block;	
-}
-.kompleks 
+} 
 .kompl {
 	float: left;
 	margin: 4px 32px 7px 0px; 
@@ -193,7 +195,6 @@ p {
 }
 .zakaz_block {
 	background-image: url(../img/bg.jpg);
-	height: 480px;
 }
 .zakaz_descr {
 	text-align: right;
@@ -220,7 +221,7 @@ p {
 	padding: 4px 9px;
 }
 .width_500 {
-	width: 700px;
+	width: 100%;
 	font-size: 12px;
 }
 .fio {
@@ -245,7 +246,7 @@ footer p {
 	font-size: 14px;
 }
 .form_footer {
-	width: 595px;
+	width: 100%;
 }
 .section_seo h1 {
 	text-align: center;
